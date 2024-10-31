@@ -13,5 +13,5 @@
 -There are URL below about the questions of problem and withy solutions to make the problem clear:
 
 # https://www.ablebits.com/office-addins-blog/excel-formulas-not-working/
-# https://www.pryor.com/blog/why-is-your-excel-formula-not-calculating/?c=921437&utm_content=&utm_term=&utm_campaign=14158638185&utm_source=google&utm_medium=ppc&hsa_acc=3538680935&hsa_cam=14158638185&hsa_grp=&hsa_ad=&hsa_src=x&hsa_tgt=&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gad_source=1&gclid=EAIaIQobChMIvaf-kYy5iQMVcExHAR0jXhonEAMYASAAEgLiDfD_BwE
+# https://learn.microsoft.com/en-us/office/vba/excel/concepts/excel-performance/excel-improving-calculation-performance
 # https://support.microsoft.com/en-us/office/fix-an-inconsistent-formula-5dd940a1-4f87-44bd-91dd-bf45ed828f05
