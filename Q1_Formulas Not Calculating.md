@@ -1,4 +1,5 @@
-# There are different kinds of questions asked to the user to make the problem clear:
+# Questions ask to the End user 
+# There are different kinds of questions asked to the end user to make the problem clear:
 * 1. Are you matching all opening and closing parentheses in a formula.
 * 2. Are you enter all required arguments in an Excel function
 * 3. Are you nest more than 64 functions in a formula
